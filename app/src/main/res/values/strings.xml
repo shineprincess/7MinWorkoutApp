@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">WorkoutAppp</string>
+    <string name="image">image</string>
+    <string name="start">Start</string>
+    <string name="get_ready_for">GET READY FOR The Exercise </string>
+    <string name="Seconds">10</string>
+    <string name="exercises_image">Exercises Image</string>
+    <string name="exercise_name">Exercise Name</string>
+    <string name="upcoming_exercise">UPCOMING EXERCISE :</string>
+    <string name="_30">30</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="Bmi_calculator">Calculator</string>
+</resources>
